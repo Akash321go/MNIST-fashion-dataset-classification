@@ -1,5 +1,6 @@
 # MNIST-fashion-dataset-classification
-Classify MNIST fashion dataset and create a model to accurately predict the type of product
+Classify MNIST fashion dataset and create a model to accurately predict the type of product. Download	the	MNIST	fashion	training	dataset	from	Kaggle	at		
+https://www.kaggle.com/zalando-research/fashionmnist
 
 # Introduction
 
